@@ -10,6 +10,7 @@ custom/*
 !custom/plugins/stupied4ever/stupied4ever.plugin.zsh
 !custom/example
 !custom/example.zsh
+!custom/corrections.zsh
 *.swp
 !custom/example.zshcache
 cache/
