@@ -1,4 +1,4 @@
-# Stupied4ever theme based on leafac theme
+# vnavarro theme based on stupied4ever theme based on leafac theme
 
 
 PROMPT='$(git_prompt_info)%{$fg_bold[blue]%}$ %{$reset_color%}'
