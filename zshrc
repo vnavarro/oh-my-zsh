@@ -7,6 +7,3 @@ source $ZSH/oh-my-zsh.sh
 
 export PGDATA='/usr/local/var/postgres'
 export PGHOST=localhost
-
-export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
